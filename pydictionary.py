@@ -48,3 +48,7 @@ button.grid()
 
 #initialize the event loop
 root.mainloop()
+
+#todo
+#fix error handeling
+#fix ui layout
